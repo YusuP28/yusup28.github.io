@@ -103,7 +103,7 @@ class HeroSection extends StatelessWidget {
               ),
               _buildSecondaryButton(
                 'Email',
-                () => _launch('mailto:muhamadyusup070420@gmail.com'),
+                () => _launch('mailto:yusup28editz@gmail.com'),
               ),
             ],
           ),

@@ -47,10 +47,10 @@ class ContactSection extends StatelessWidget {
               ),
               _buildContactCard(
                 'Email',
-                'muhamadyusup070420@gmail.com',
+                'yusup28editz@gmail.com',
                 Icons.email,
                 0xFFEA4335,
-                () => _launch('mailto:muhamadyusup070420@gmail.com'),
+                () => _launch('mailto:yusup28editz@gmail.com'),
               ),
             ],
           ),
